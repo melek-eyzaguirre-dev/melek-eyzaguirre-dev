@@ -1,72 +1,75 @@
-## Perfil De github Profesional 2 y Academico 2 👋
+# Hola, soy Julieta(Melek) Eyzaguirre Arenas
+## Soy una mujer Gitana Transgenero, el Nombre de Melek es mi nombre social y lo amo por que es 
+** Un Nombre muy especial, Muchas Gitanas de los Balcanes se llaman Asi y Significa Angel👋
 
-<!--
-**melek-eyzaguirre-dev/melek-eyzaguirre-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-Bienvenid@ a mi espacio profesional. Soy ** Yipsi Melek Eyzaguirre Arenas**,  soy una Gitana ,Ingeniera en Informática con mención en Ciberseguridad, titulada con Distinción Máxima. Este repositorio es el corazón de mi presencia digital como desarrolladora backend, administradora cloud y proveedora de soluciones freelance.
+### 🎓 Ingeniera en Informática | Especialista en Ciberseguridad
+**Titulada con Distinción Máxima**
 
 ---
 
-# 👩‍💻 Melek Eyzaguirre Dev · Portafolio Profesional
+### 🔬 Sobre este Perfil (Academic & Professional Lab)
 
-**Desarrolladora Backend | Java | Spring Boot | Kafka | Ciberseguridad | Multilingüe**
+Bienvenido a mi **núcleo de desarrollo académico y profesional**. A diferencia de mi perfil personal, este espacio (`melek-eyzaguirre-dev`) está dedicado a la **investigación técnica, pruebas de concepto (PoC) y el despliegue de mi portafolio profesional**.
 
-📍 Rancagua, Chile  
-🎓 Ingeniera en Informática, mención Ciberseguridad  
-🌐 Español | Inglés | Francés | Portugués | Rumano  
-💡 Apasionada por la arquitectura de microservicios, automatización y buenas prácticas
-
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| [Microservicios en Java](https://github.com/gipsy-yuilet-dev/microserviciosEnJava) | Productor y consumidor Kafka con Spring Boot | Java, Spring Boot, Kafka, Actuator |
-| [Automatización de tareas](https://github.com/gipsy-yuilet-dev/Automatizaci-n-de-tareas) | Scripts para automatizar procesos repetitivos | Java, Python |
-| [Portafolio Multilingüe](https://github.com/gipsy-yuilet-dev/Portafolio-Multiling-e/tree/main) | CV y proyectos traducidos a 5 idiomas | HTML, CSS, Markdown |
+Aquí encontrarás repositorios enfocados en:
+*   🧪 **Experimentación Técnica:** Pruebas de algoritmos y nuevas tecnologías.
+*   🛡️ **Ciberseguridad Aplicada:** Implementaciones de seguridad y análisis de vulnerabilidades.
+*   📚 **Avances Académicos:** Proyectos desarrollados durante mi formación y especialización.
 
 ---
 
-## 🗂️ Categorías de proyectos
+### 🛠️ Stack Tecnológico & Herramientas de Investigación
 
-### 🧠 Microservicios
-Arquitectura distribuida con Spring Boot, Kafka, REST y Actuator.
-
-### 🔐 Ciberseguridad
-Prácticas seguras en desarrollo, configuración y monitoreo de aplicaciones.
-
-### ⚙️ Automatización
-Scripts y herramientas para optimizar flujos de trabajo en entornos Windows y Linux.
-
-### 🌍 Multilingüe
-Proyectos y documentación técnica en español, inglés, francés, portugués y rumano.
-
-### 🧪 Pruebas y calidad
-Integración de pruebas unitarias, métricas personalizadas y monitoreo con Actuator.
-
-### 🧓 Old Devs
-Exploración y documentación de lenguajes clásicos:
-- COBOL
-- BASIC
-- Pascal
-- Fortran
-- Clipper
-- dBASE
-- FoxPro
-- Deplhi
-- Visual Basic
-- Ensamblador
-- Ada
+| Área | Tecnologías |
+| :--- | :--- |
+| **Lenguajes Principales** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Desarrollo Web** | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Base de Datos** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) |
+| **Herramientas & Cloud** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) |
 
 ---
 
-## 📫 Contacto
+### 🚀 Proyectos Destacados (Portafolio)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/julieta-eyzaguirre-arenas-171721167/) *(actualiza con tu perfil)*
-- 📧 yulimelekdev@jufeyzardev.site*(actualiza con tu correo profesional)*
-- 🌐 [Portafolio web](https://www.jufeyzardev.site) 
-- 🌐 aun en construccion
+#### 🛒 [E-Commerce MVC Secure Platform](https://github.com/melek-eyzaguirre-dev/E-commerce-MVC-With-C-)
+> *Desarrollo Full Stack de una plataforma de comercio electrónico robusta.*
+*   **Tecnologías:** C#, ASP.NET MVC, SQL Server, HTML/CSS/JS.
+*   **Enfoque:** Arquitectura MVC escalable, gestión segura de base de datos y diseño de interfaz responsiva.
+
+#### 🎮 [Unity Crash SDK Optimization](https://github.com/melek-eyzaguirre-dev/unity-crash-sdk)
+> *Contribución técnica y optimización de herramientas de desarrollo.*
+*   **Tecnologías:** C#, Unity Engine.
+*   **Logro:** Fork enfocado en la optimización del manejo de excepciones y recolección de dumps de memoria para reportes de errores (Crash Reporting).
+
+#### 🔢 [Algoritmos & Estructuras de Datos](https://github.com/melek-eyzaguirre-dev/SerieFibonacci)
+> *Repositorio de estudio algorítmico.*
+*   Implementación y análisis de eficiencia de la Serie Fibonacci en múltiples lenguajes, demostrando dominio de lógica de programación y optimización.
+
+---
+
+### 📜 Formación Académica y Certificaciones
+
+*   🎓 **Ingeniería en Informática con Mención en Ciberseguridad**
+    *   *Estado:* Titulada con **Distinción Máxima**.
+*   ☁️ **Oracle Cloud Infrastructure (OCI) Foundations Associate** (2024)
+*   💻 **Desarrollo Java Backend** - Oracle ONE
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melek-eyzaguirre-dev&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melek-eyzaguirre-dev&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Contacto Profesional
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julieta_Eyzaguirre-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/julieta-eyzaguirre-arenas-171721167/)
+[![Website](https://img.shields.io/badge/Website-jufeyzardev.site-purple?style=for-the-badge&logo=google-chrome)](https://jufeyzardev.site/)
+
+</div>
