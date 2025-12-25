@@ -1,6 +1,6 @@
-# Hola, soy Julieta(Melek) Eyzaguirre Arenas
+# Hola, soy Julieta(Melek) Eyzaguirre Arenas Amante de la tecnologia
 ## Soy una mujer Gitana Transgenero, el Nombre de Melek es mi nombre social y lo amo por que es 
-** Un Nombre muy especial, Muchas Gitanas de los Balcanes se llaman Asi y Significa Angel👋
+ Un Nombre muy especial, Muchas Gitanas de los Balcanes se llaman Asi y Significa Angel
 
 ### 🎓 Ingeniera en Informática | Especialista en Ciberseguridad
 **Titulada con Distinción Máxima**
